@@ -27,7 +27,7 @@ export default {
     }
   },
   created () {
-    axios.get('https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,BSV,ETH,BCH,EOS,ETC,LTC,DASH,XRP,TRX&tsyms=USD,EUR')
+    axios.get('https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,BSV,ETH,BCH,EOS,ETC,LTC,DASH,XRP,TRX,BNB,NEO,OKB,LINK,XTZ,MANA,OGN,ZEC,XMR,QTUM,BTG,ADA,ONT,ICX,TRUE,BCD,XLM&tsyms=USD,EUR')
       .then(responce => {
         this.cryptos = responce.data
       })

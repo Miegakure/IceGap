@@ -36,7 +36,24 @@ export default {
         LTC: 'Litecoin',
         DASH: 'Dash',
         XRP: 'XRP',
-        TRX: 'TRON'
+        TRX: 'TRON',
+        BNB: 'Binance Coin',
+        NEO: 'NEO',
+        OKB: 'Okex',
+        LINK: 'Chainlink',
+        XTZ: 'Tezos',
+        MANA: 'Decentraland',
+        OGN: 'Origin Protocol',
+        ZEC: 'ZCash',
+        XMR: 'Monero',
+        QTUM: 'QTUM',
+        BTG: 'Bitcoin Gold',
+        ADA: 'Cardano',
+        ONT: 'Ontology',
+        ICX: 'Icon Project',
+        TRUE: 'True Chain',
+        BCD: 'Bitcoin Diamond',
+        XLM: 'Stellar'
       }
     }
   }
