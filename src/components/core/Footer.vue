@@ -9,7 +9,7 @@
       &copy;
       2019 -
       {{ (new Date()).getFullYear() }}
-      x Cryptocompare API x Vuetify Material Dashboard
+      Powered by Cryptocompare API
     </span>
   </v-footer>
 </template>

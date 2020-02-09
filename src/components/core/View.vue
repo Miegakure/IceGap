@@ -5,6 +5,7 @@
         <router-view />
       </v-fade-transition>
     </div>
+    <!-- TOneverDO: change this code line -->
     <core-footer/>
   </v-content>
 </template>

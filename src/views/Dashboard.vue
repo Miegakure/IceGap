@@ -4,11 +4,11 @@
     fluid
     grid-list-xl
   >
-    <v-lauout wrap>
+    <v-layout wrap>
       <currency-el
         v-bind:cryptos="cryptos"
       />
-    </v-lauout>
+    </v-layout>
   </v-container>
 </template>
 

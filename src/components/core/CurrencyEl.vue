@@ -11,7 +11,7 @@
       :title="cur"
       :value="'$' + String(price.USD) + ' | €' + String(price.EUR)"
       :sub-text="crs[cur]+' USD | EUR'"
-      color="inherit"
+      color="blue"
     />
   </v-flex>
 </template>

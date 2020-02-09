@@ -10,7 +10,7 @@
     width="260"
   >
     <v-img
-      src="https://demos.creative-tim.com/vue-material-dashboard/img/sidebar-2.32103624.jpg"
+      src="https://demos.creative-tim.com/vue-material-dashboard/img/sidebar-2.32103624.jpg?__cf_chl_captcha_tk__=4b795e2b3559df3e722b2e64a4a3c7f641576ebf-1581237058-0-ASQ4-gGDEIwZmg1P2dCCH0EwTEZv_VSMBu-lqStsTKShQo_3LMbN5NbCWho2mGopxoU4z4TPGdGVJgbTYvX5JVOofF4kKOjVsGd5_KQs0CJBSoz4pkkqO7OLM_Xp3Mex_auva1XvMmckv9s27Nka8vfMYNPaTuEYQ_AXTph-_K8i1zc0AQizPfHKK_uTjFlOn2AprgltjINDZZt0TrkhMzdl4YbsXIxgy-Ws93cG1GBZI-TDkOfC8-4uRccdVhlIozz73gEjMEze6_5OSpLhcOWW9YgkdwxFzf2OEMIttP9KArmCkeNdWcQIKCpqBxz_h2LTDj7x72exYSl25E91NQJES7A9XSVoy5r2vz0-lPJPvxiR8fJrxGCbr4Oxzilnn0t3HYxXfsZnPQqSdoASbEQKjlh1v7Fw3DzMuP5Uo90D_WMUeOxMZNrfeFqkgeCxqg"
       height="100%"
     >
       <v-layout
@@ -20,7 +20,7 @@
       >
         <v-list-tile avatar>
           <v-list-tile-avatar
-            color="white"
+            color="inherit"
           >
             <v-img
               :src="logo"

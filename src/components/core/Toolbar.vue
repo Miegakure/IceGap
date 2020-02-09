@@ -6,6 +6,7 @@
     prominent
     style="background: #eee;"
   >
+    <!-- TOneverDO: change this div -->
     <div class="v-toolbar-title">
       <v-toolbar-title
         class="tertiary--text font-weight-light"
@@ -22,7 +23,6 @@
         {{ title }}
       </v-toolbar-title>
     </div>
-
     <v-spacer />
     <v-toolbar-items>
       <v-flex
@@ -43,6 +43,13 @@
         >
           <v-icon color="tertiary">mdi-view-dashboard</v-icon>
         </router-link>
+        <!-- <router-link
+          v-ripple
+          class="toolbar-items"
+          to="/user-profile"
+        >
+          <v-icon color="tertiary">mdi-account</v-icon>
+        </router-link> -->
       </v-flex>
     </v-toolbar-items>
   </v-toolbar>
@@ -56,6 +63,7 @@ import {
 
 export default {
   data: () => ({
+
     title: null,
     responsive: false
   }),
