@@ -5,6 +5,7 @@
     grid-list-xl
   >
     <v-layout wrap>
+      <!-- eslint-disable -->
       <currency-el
         v-bind:cryptos="cryptos"
       />
